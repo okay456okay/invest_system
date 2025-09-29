@@ -4,7 +4,7 @@
 
 ![投资体系](https://img.shields.io/badge/投资体系-四象限-blue?style=for-the-badge)
 ![风险等级](https://img.shields.io/badge/风险等级-中低风险-green?style=for-the-badge)
-![目标收益](https://img.shields.io/badge/目标收益-APY>10%-orange?style=for-the-badge)
+![目标收益](https://img.shields.io/badge/目标收益-APY_10%25-orange?style=for-the-badge)
 
 </div>
 
@@ -44,8 +44,8 @@
 <div align="center">
 
 ![高风险高收益](https://img.shields.io/badge/风险等级-高风险-red?style=flat-square)
-![配置比例](https://img.shields.io/badge/配置比例-15%-blue?style=flat-square)
-![目标收益](https://img.shields.io/badge/目标收益-APY>20%-green?style=flat-square)
+![配置比例](https://img.shields.io/badge/配置比例-15%25-blue?style=flat-square)
+![目标收益](https://img.shields.io/badge/目标收益-APY_20%25-green?style=flat-square)
 
 </div>
 
@@ -121,15 +121,15 @@
 <div align="center">
 
 ![高风险](https://img.shields.io/badge/风险等级-高风险-red?style=flat-square)
-![配置比例](https://img.shields.io/badge/配置比例-5%-blue?style=flat-square)
-![目标收益](https://img.shields.io/badge/目标收益-APY>40%-green?style=flat-square)
+![配置比例](https://img.shields.io/badge/配置比例-5%25-blue?style=flat-square)
+![目标收益](https://img.shields.io/badge/目标收益-APY_40%25-green?style=flat-square)
 
 </div>
 
 | 项目 | 详情 |
 |------|------|
 | ⚠️ **策略特点** | 低胜率策略，谨慎参与或避免 |
-| 📊 **投资标的** | Pendle YT |
+| 📊 **投资标的** | Pendle YT, 套利机会 |
 | 💰 **投资目标** | APY>40% |
 | ⚖️ **投资比例** | 5% |
 
@@ -152,8 +152,8 @@
 <div align="center">
 
 ![低风险](https://img.shields.io/badge/风险等级-低风险-green?style=flat-square)
-![配置比例](https://img.shields.io/badge/配置比例-15%-blue?style=flat-square)
-![目标收益](https://img.shields.io/badge/目标收益-APY>10%-green?style=flat-square)
+![配置比例](https://img.shields.io/badge/配置比例-15%25-blue?style=flat-square)
+![目标收益](https://img.shields.io/badge/目标收益-APY_10%25-green?style=flat-square)
 
 </div>
 
@@ -184,8 +184,8 @@
 <div align="center">
 
 ![低风险](https://img.shields.io/badge/风险等级-低风险-green?style=flat-square)
-![配置比例](https://img.shields.io/badge/配置比例-60%-blue?style=flat-square)
-![目标收益](https://img.shields.io/badge/目标收益-APY>20%-green?style=flat-square)
+![配置比例](https://img.shields.io/badge/配置比例-60%25-blue?style=flat-square)
+![目标收益](https://img.shields.io/badge/目标收益-APY_20%25-green?style=flat-square)
 
 </div>
 
