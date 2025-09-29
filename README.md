@@ -33,7 +33,11 @@
 补充说明如下：
 1. 为什么选择趋势量化策略：
    1. 量化策略：炒股了十多年，经历过牛市、熊市，但都没赚到钱，认知是一方面，但克服不了人性的缺陷是更多的原因。现在选择趋势性量化策略，程序化决策，用数据说话，摆脱人的干扰因素。参考：[《怪诞行为学》读书总结 - 最美Lily-bestoflily](https://blog.okay456okay.cn/booknote-predictably-irrational/#i-9)
-   2. 趋势性策略：买入并长期持有是一种策略，趋势交易是另一各策略，并且可以跑赢前者，直观理解: 在市场反复波动过程中，趋势交易可以执行多次低买高卖操作，从而增加利润（跑盈基准指数的依剧）。参考股债ETF轮动策略：![股债ETF轮动策略](images/etf-rotation-strategy.png) 和加密货币交易策略: ![ichiV1](images/freqtrade-strategy-ichiV1.png)。
+   2. 趋势性策略：买入并长期持有是一种策略，趋势交易是另一各策略，并且可以跑赢前者，直观理解: 在市场反复波动过程中，趋势交易可以执行多次低买高卖操作，从而增加利润（跑盈基准指数的依剧）。
+   股债ETF轮动策略：2016年1月4日-2025年8月20日，9年翻6倍+。 
+   ![股债ETF轮动策略](images/etf-rotation-strategy.png) 
+   加密货币交易策略：超越市场，找到最好的交易策略
+   ![ichiV1](images/freqtrade-strategy-ichiV1.png)。
 2. 通过持续的信息输入，提升认识，找到天花板非常高且目前在迅速发展的行业、赛道、公司
    1. AI：关注 海外独角兽 微信公众号; AIGCRank
    2. 加密货币：[SOSOValue分析看板](https://sosovalue.com/zh/dashboard/charts)(特别关注恐惧和贪婪指数)； [BTCBOXER](https://btcboxer.com/home)(抄底、逃顶、局部买卖); [MAG7.ssi](https://ssi.sosovalue.com/zh/buy/MAG7.ssi)
