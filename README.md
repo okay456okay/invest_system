@@ -97,7 +97,9 @@
 
 ## 交流分享
 
-微信： InSightPearl21, Telegram: @insightpearl, 微信公众号： 远见拾贝。 欢迎加入投资理财群, 一起赚钱。
+微信： InSightPearl21, Telegram: @insightpearl, 微信公众号：远见拾贝。 
+
+所有投资和理财机会均在公众号和远见拾贝网站发布，欢迎关注和订阅。加入投资理财群, 获取赚钱第一手资讯。
 
 个人作品：
 * [远见拾贝 - 终身学习、终身投资，用远见洞察，赚确定性的钱。微信公众号: 远见拾贝。](https://www.insightpearl.com/)
