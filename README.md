@@ -106,3 +106,4 @@
 * [市场数据 - Pendle](https://mypendle.insightpearl.com/)
 * [Pendle学院](https://pendle.insightpearl.com/)
 * [加密货币资源大全，从入门到进阶，求精不求多，持续更新](https://github.com/okay456okay/awesome-crypto)
+* [四象限图绘制工具](https://github.com/okay456okay/invest_matrix)
